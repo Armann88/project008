@@ -1,0 +1,4 @@
+#ignore bolor .log filery
+*.log
+#ignore bolor filery voron temp papkayi mejen
+temp/
